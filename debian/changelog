@@ -1,3 +1,9 @@
+openkj (2.0.7-1-noble) UNRELEASED; urgency=medium
+
+  * Updated to build on Ubuntu 24.04 Noble
+
+ -- Mark Turner <jmarkturner@gmail.com>  Tue, 24 Jun 2025 13:55:29 -0400
+
 openkj (2.0.3-1~bionic) bionic; urgency=medium
 
   [ runner@fv-az213-930.myevld0x5ppejn3ihmbjdxfrpc.jx.internal.cloudapp.net ]
